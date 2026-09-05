@@ -164,9 +164,15 @@ ag-news-text-classification/
 │   └── best_model_class_metrics.png
 ├── data/
 │   └── README.md
+├── notebooks/
+│   └── ag_news_text_classification.ipynb
 └── report/
     └── coursework_ag_news.pdf
 ```
+
+## Исходная работа
+
+В папке `notebooks/` находится исходный Jupyter Notebook с кодом, результатами выполнения и визуализациями. В папке `report/` сохранена PDF-версия курсовой работы.
 
 ## Стек
 
