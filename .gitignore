@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local data
+train.csv
+test.csv
+data/*.csv
+
+# NLTK / cache
+nltk_data/
+.cache/
